@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Padauk&display=swap');
+
+.heading {
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 10rem;
+}
+
+body {
+    background-color: rgb(221, 238, 221) ;
+    color: rgb(69, 87, 77);
+    font-family: 'Bebas Neue', cursive;
+}
+
+img {
+    width: 500px;
+    display: block;
+    margin: 0 auto;
+    padding: 30px;
+}
+
+
+.KOOSTISAINED-TABEL {
+    width: 40%;
+    border: 2px solid rgb(143, 96, 96);
+    margin: 0 auto;
+    font-size: 25px;
+}
+
+.valmistamine {
+    width: 50%;
+    margin: 0 auto;
+    font-size: 25px;
+    padding: 1 px;
+}
+
+.valmistamine ol {
+    border: 1px solid white;
+    margin: 10px auto;
+    width: 80%;
+}
+
+
+
+.allikas {
+    text-align: center;
+    display: block;
+    font-size: 20px;
+}
+
+.footer {
+    text-align: center;
+    font-family: 'Bebas Neue', cursive;
+    padding-top: 20px;
+    font-size: 1rem ;
+}
